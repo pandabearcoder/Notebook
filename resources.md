@@ -38,3 +38,11 @@ A website aiming to give just much information you need to learn a technology in
 
 A talk given at Pycon Montreal 2015 explaining how it actually works whenever we
 declare a Name and set a Value for it.
+
+[Hypothesis - Property Based Testing for
+Python](https://hypothesis.readthedocs.io/en/latest/)
+
+Property based testing is a type of testing that instead of feeding a predefined
+data to the test and asserting what the actual output from the data would be,
+you would rather describe what the data should look like, and figure out if the
+output is the desired output.

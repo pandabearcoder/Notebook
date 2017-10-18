@@ -62,3 +62,11 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >Online book to learn Unix's awk
 
 ---
+
+[12 Factor App](https://12factor.net/)
+
+>A website containing best practices gained from years of experience of
+>developing Software-as-a-Service applications.
+
+---
+

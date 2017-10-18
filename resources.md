@@ -56,3 +56,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >output is the desired output.
 
 ---
+
+[An Awk Primer](https://en.m.wikibooks.org/wiki/An_Awk_Primer)
+
+>Online book to learn Unix's awk
+
+---

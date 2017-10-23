@@ -70,3 +70,10 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 
 ---
 
+[First timers only](https://twitter.com/first_tmrs_only)
+
+>Twitter account that posts open-source projects that first timers can
+>contribute to. Although I didn't get my first contributions from here since
+>issues posted were resolved pretty fast.
+
+---

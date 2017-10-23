@@ -6,3 +6,4 @@ A collection of documents, links to articles and other things that are nice to b
 [Resources](./resources.md)
 
 [Good Reads](./goodreads.md)
+[Milestones](./milestones.md)

@@ -77,3 +77,10 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >issues posted were resolved pretty fast.
 
 ---
+
+[Intro to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+
+>An eight part series of articles that tries to explain machine learning
+>to those who don't know where to start, just like me.
+
+---

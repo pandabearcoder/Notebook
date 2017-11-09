@@ -84,3 +84,11 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >to those who don't know where to start, just like me.
 
 ---
+
+[ES6 Arrow Functions Primer](https://tylermcginnis.com/arrow-functions/)
+
+>Introduction and basic usage of the new arrow function (ES6).
+>Also includes some cool tricks you can do with arrow functions
+>that you can't do with it normal js funtions.
+
+---

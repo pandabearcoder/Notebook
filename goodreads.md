@@ -29,3 +29,7 @@
 >old configurations is more than enough for a solid infrastructure.
 
 ---
+
+[Tips on Code Refactoring](https://dev.to/couellet/tips-on-code-refactoring-from-a-former-addict-1fj)
+>Creatively describes when to do code refactoring since most of the time developers
+>love to refactor their code and it justs never stop.

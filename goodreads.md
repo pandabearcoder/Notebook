@@ -42,3 +42,9 @@
 >we've warned for a long time, and we are confident that we've actually
 >caught all the normal cases, _then_ we can start taking more drastic
 >measures".
+
+---
+
+[How to read the newspaper](http://blog.erratasec.com/2017/11/how-to-read-newspapers.html)
+>We are often redirected from the actual information based on the writer's way of
+>writing to make more interest to the readers.

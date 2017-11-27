@@ -92,3 +92,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >that you can't do with it normal js funtions.
 
 ---
+
+[CEH Exam Simulation](http://ceh.cagy.org/)
+
+>A website containing questionnaires to test your skills before taking the CEH Exam
+
+---

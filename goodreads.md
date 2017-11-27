@@ -33,3 +33,12 @@
 [Tips on Code Refactoring](https://dev.to/couellet/tips-on-code-refactoring-from-a-former-addict-1fj)
 >Creatively describes when to do code refactoring since most of the time developers
 >love to refactor their code and it justs never stop.
+
+---
+
+[Linus Torvalds' no bullshit email about security](http://lkml.iu.edu/hypermail/linux/kernel/1711.2/01701.html)
+>So the hardening efforts should instead _start_ from the standpoint of
+>"let's warn about what looks dangerous, and maybe in a _year_ when
+>we've warned for a long time, and we are confident that we've actually
+>caught all the normal cases, _then_ we can start taking more drastic
+>measures".

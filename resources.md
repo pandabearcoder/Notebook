@@ -98,3 +98,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >A website containing questionnaires to test your skills before taking the CEH Exam
 
 ---
+
+[All the little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+
+>A talk from RailsConf 2014 that explains how to properly refactor code
+
+---

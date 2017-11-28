@@ -18,3 +18,8 @@ A collection of documents, links to articles and other things that are nice to b
 >consider a milestone. You can check them here.
 
 ---
+
+[Programming Mantras](./mantras.md)
+>Collection of mantras to guide you as you do your daily coding.
+
+---

@@ -48,3 +48,9 @@
 [How to read the newspaper](http://blog.erratasec.com/2017/11/how-to-read-newspapers.html)
 >We are often redirected from the actual information based on the writer's way of
 >writing to make more interest to the readers.
+
+---
+[Avoid humiliating newcomers](https://opensource.com/article/18/3/avoid-humiliating-newcomers)
+>Oftentimes I find myself getting angry with beginners asking too much question without
+>reading previous answers carefully. I often lose my temper, and feel bad afterwards.
+>Here's a good article to help people who experience the same situation.

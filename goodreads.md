@@ -54,3 +54,8 @@
 >Oftentimes I find myself getting angry with beginners asking too much question without
 >reading previous answers carefully. I often lose my temper, and feel bad afterwards.
 >Here's a good article to help people who experience the same situation.
+
+---
+[Public Tech Talks](https://dev.to/tlakomy/what-i-wished-someone-told-me-about-speaking-at-tech-conferences-3opp)
+>A great resource to read when you have a goal to speak publicly, may it be at a small meetup
+>to large conferences.

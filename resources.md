@@ -104,3 +104,8 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >A talk from RailsConf 2014 that explains how to properly refactor code
 
 ---
+
+[Django Rest QL](https://github.com/yezyilomo/django-restql)
+
+>Python library which allows you to turn your API
+>made with Django REST Framework(DRF) into a GraphQL like API.

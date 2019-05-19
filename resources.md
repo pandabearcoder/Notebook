@@ -109,3 +109,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 
 >Python library which allows you to turn your API
 >made with Django REST Framework(DRF) into a GraphQL like API.
+
+---
+
+[Health checks](https://github.com/healthchecks/healthchecks)
+
+>Cron Monitoring Tool written in Python & Django

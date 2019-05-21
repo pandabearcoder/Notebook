@@ -115,3 +115,10 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 [Health checks](https://github.com/healthchecks/healthchecks)
 
 >Cron Monitoring Tool written in Python & Django
+
+---
+[Delete FB](https://github.com/weskerfoot/DeleteFB)
+
+>Automation script based on seletion for deleting facebook posts
+
+---

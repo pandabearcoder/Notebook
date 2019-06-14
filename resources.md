@@ -128,3 +128,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >An article that shows the actual speeds of different serialization methods
 
 ---
+
+[Securing Django Admin]((https://hakibenita.com/5-ways-to-make-django-admin-safer)
+
+>Ways to make your django admin console more secure
+
+---

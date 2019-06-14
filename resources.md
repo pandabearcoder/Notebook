@@ -122,3 +122,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >Automation script based on seletion for deleting facebook posts
 
 ---
+
+[Speed up data serialization](https://hakibenita.com/django-rest-framework-slow)
+
+>An article that shows the actual speeds of different serialization methods
+
+---

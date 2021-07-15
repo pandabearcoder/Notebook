@@ -134,3 +134,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >Ways to make your django admin console more secure
 
 ---
+
+[Celery execution pool](https://www.distributedpython.com/2018/10/26/celery-execution-pool/)
+
+>Understand workers, pools, threads, eventlets of Celery
+
+---

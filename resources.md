@@ -140,3 +140,9 @@ Python](https://hypothesis.readthedocs.io/en/latest/)
 >Understand workers, pools, threads, eventlets of Celery
 
 ---
+
+[Django Search DSL](https://danlamanna.com/posts/building-search-dsls-with-django/)
+
+>Using PyParsing library to create DSL with Django ORM
+
+---
